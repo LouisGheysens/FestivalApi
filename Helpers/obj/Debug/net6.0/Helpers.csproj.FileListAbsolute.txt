@@ -1,0 +1,12 @@
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\bin\Debug\net6.0\Helpers.deps.json
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\bin\Debug\net6.0\Helpers.dll
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\bin\Debug\net6.0\Helpers.pdb
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\obj\Debug\net6.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\obj\Debug\net6.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\obj\Debug\net6.0\Helpers.AssemblyInfo.cs
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\obj\Debug\net6.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\obj\Debug\net6.0\Helpers.dll
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\obj\Debug\net6.0\refint\Helpers.dll
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\obj\Debug\net6.0\Helpers.pdb
+C:\Users\Eigenaar\source\repos\FestivalAPI\Helpers\obj\Debug\net6.0\ref\Helpers.dll
